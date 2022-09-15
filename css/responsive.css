@@ -1,0 +1,144 @@
+@media (min-width: 991.98px) and (max-width: 1200px) {
+    h1 {
+        font-size: 49px;
+    }
+
+    .leftrightmargin {
+        margin-left: 94px;
+        margin-right: 93px;
+    }
+
+    .faqheading {
+        font-size: 21px;
+    }
+
+    .banner {
+
+        background-position: top;
+    }
+
+}
+
+@media (min-width: 300px) and (max-width: 415px) {
+
+    .right-border {
+        text-align: center;
+        border-right: none;
+        padding-right: 0px;
+    }
+
+    .right-border1 {
+        text-align: center;
+    }
+
+    .mob-button {
+        text-align: center !important;
+        margin-bottom: 22px;
+
+    }
+
+    .banner-content h5 {
+        font-size: 15px;
+        line-height: 12px;
+    }
+
+    h1 {
+        font-size: 22px;
+        line-height: 23px;
+    }
+
+    .banner-content p {
+        width: 100%;
+        font-size: 17px;
+        letter-spacing: normal;
+
+    }
+
+    .mob-button2 {
+        text-align: center;
+    }
+
+    .afc {
+        margin-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .mob-img-padding {
+        padding-bottom: 20px;
+    }
+
+    .accordion {
+        width: 100%;
+    }
+
+    .text-decore {
+        font-size: 12px;
+    }
+
+    .mob-text-margin {
+        margin-top: 12px;
+    }
+
+    .leftrightmargin {
+        margin-top: 12px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .width83 {
+        width: 100%;
+    }
+
+    .mob-font13 {
+        font-size: 13px;
+    }
+
+    .mob-img-center1 {
+        text-align: center;
+    }
+
+    .mob-img-center {
+        width: 183px;
+        font-size: 18px;
+    }
+
+    .faqheading {
+        font-size: 15px;
+    }
+
+    .banner-content h6 {
+        font-size: 12px;
+    }
+
+    .mob-width-pic44 {
+        width: 160px;
+    }
+
+    .show {
+        display: none;
+    }
+    .pt-mobile{
+        padding-top: 0px !important;
+     }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .leftrightmargin{
+        margin-left: 159px;
+        margin-right: 0px;
+        margin-top: 20px;
+    }
+
+.mobil-left-margain{
+    margin-left: 160px;
+}
+.mob-img-center1{
+    text-align: center;
+}
+.width83{
+    width: 100%;
+}
+
+ }
